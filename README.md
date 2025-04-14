@@ -7,7 +7,7 @@ Simulation of a digital communication system using:
 - Viterbi Decoding
 - BER vs. SNR Analysis
 
-## ✅ Requirements
+## Requirements
 - Python 3.10.4
 - numpy
 - matplotlib
